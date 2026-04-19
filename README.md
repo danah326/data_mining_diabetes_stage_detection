@@ -1,1 +1,1 @@
-#data mining diabetes stage detection
+data mining diabetes stage detection
